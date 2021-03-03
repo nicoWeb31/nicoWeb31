@@ -1,4 +1,4 @@
-### Hi there, I'm nicolas mern developper !!! 👋
+### Hi there, I'm nicolas mern developer !!! 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicoWeb31)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoWeb31)](https://github.com/nicoWeb31/github-readme-stats)
 
