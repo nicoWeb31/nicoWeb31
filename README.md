@@ -2,7 +2,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicoWeb31)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoWeb31)](https://github.com/nicoWeb31/github-readme-stats)
 
-- 🌱 I’m currently learning Typescript
+- 🌱 I woork for Umoove! 
 <!--
 **nicoWeb31/nicoWeb31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
