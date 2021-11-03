@@ -1,8 +1,8 @@
 ### Hi there, I'm nicolas JavaScript developer !!! 👋
 
-- 🌱 I woork for Umoove! 
+- 🌱 I woork for Umoove!
+- Html5, Css3, Sass, Angular8+, NestJs, NX, RXJS, NGRX, Material
 
-- Html5, Css3, Sass, Angular8+, NestJs, NX, RXJS, NGRX, Material
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicoWeb31)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoWeb31)](https://github.com/nicoWeb31/github-readme-stats)
