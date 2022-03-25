@@ -1,6 +1,7 @@
 ### Hi there, I'm nicolas JavaScript developer !!! 👋
 
 - 🌱 Looking for a job ! 
+- https://www.linkedin.com/in/nicolas-riot/
 
 - Html5, Css3, Sass, Angular8+, NestJs, NX, RXJS, NGRX, Material
 
