@@ -1,6 +1,6 @@
 ### Hi there, I'm nicolas JavaScript developer !!! 👋
 
-- 🌱 I woork for Umoove!
+- 🌱 Looking for a job ! 
 
 - Html5, Css3, Sass, Angular8+, NestJs, NX, RXJS, NGRX, Material
 
