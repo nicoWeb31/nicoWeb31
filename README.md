@@ -1,6 +1,6 @@
 ### Hi there, I'm nicolas JavaScript developer !!! 👋
 
-- 🌱 I'm looking for a job ! 
+- 🌱 Work at FittingBox !! 
 - https://www.linkedin.com/in/nicolas-riot/
 
 - Html5, Css3, Sass, Angular8+, NestJs, NX, RXJS, NGRX, Material
