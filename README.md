@@ -1,4 +1,4 @@
-### Hi there, I'm nicolas JavaScript developer !!! 👋
+### Hi there, I'm nicolas JavaScript developer (Angular8+ --- Nestjs) !!! 👋
 
 - 🌱 Work at FittingBox !! 
 - https://www.linkedin.com/in/nicolas-riot/
