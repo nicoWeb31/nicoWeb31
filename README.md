@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Nicolas**, a **Lead JavaScript Developer** with experience across **frontend, backend, and cloud technologies**.  
+I'm **Nicolas**, a **Lead JavaScript/Typescript Developer** with experience across **frontend, backend, and cloud technologies**.  
 
 ## 💻 Tech Stack
 
