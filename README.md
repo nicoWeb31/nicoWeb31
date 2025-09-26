@@ -1,9 +1,26 @@
-### Hi there, I'm nicolas JavaScript developer (Angular8+ --- Nestjs) !!! 👋
+# Hi there! 👋
 
-- 🌱 Work at FittingBox !! 
-- https://www.linkedin.com/in/nicolas-riot/
+I'm **Nicolas**, a **Lead JavaScript Developer** with experience across **frontend, backend, and cloud technologies**.  
 
-- Html5, Css3, Sass, Angular8+, NestJs, NX, RXJS, NGRX, Material
+## 💻 Tech Stack
+
+- **Frontend:** Angular 8+, HTML5, CSS3, Sass, Angular Material  
+- **Backend:** Node.js, NestJS, REST & GraphQL APIs  
+- **State management & tooling:** RxJS, NgRx, Nx  
+- **Cloud & DevOps:** AWS (Lambda, S3, EC2…), CI/CD pipelines  
+- **Other:** Git, Docker, Testing (Jest, Cypress)
+
+## 🌱 Current Position
+
+I currently work at **FittingBox**.  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/nicolas-riot/)
+
+## 🚀 About Me
+
+- Lead dev on multiple full-stack projects  
+- Passionate about building scalable, maintainable, and modern web applications  
+- Always learning and exploring new technologies in the JavaScript ecosystem
+
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicoWeb31)
